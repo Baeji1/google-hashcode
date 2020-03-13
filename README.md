@@ -1,2 +1,2 @@
 # google-hashcode
-Google HashCode submissions. 
+Google HashCode submissions. WIP
